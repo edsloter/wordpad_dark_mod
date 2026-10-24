@@ -1,5 +1,7 @@
 # WordPad Dark Mode Mod
 
+![WordPad Dark Mode](assets/screenshot.png)
+
 A modification for WordPad (based on Microsoft's MFC samples) to enable native-like Dark Mode support, which dynamically follows Windows system theme settings (`AppsUseLightTheme`).
 
 ## Features
