@@ -1,0 +1,22 @@
+# Build artifacts
+x64/
+Win32/
+Debug/
+Release/
+build-logs/
+*.obj
+*.pdb
+*.log
+*.exe
+*.dll
+
+# Visual Studio metadata
+.vs/
+*.sdf
+*.suo
+*.user
+*.ipch
+
+# Development temp files
+screenshots/
+AppData/
